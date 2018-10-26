@@ -7,7 +7,7 @@
         "capacitive",
         "touch",
         "I2C",
-        "xinabox"
+        "xinabox",
         "CAP1296"
     ],
     "info": {
