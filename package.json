@@ -1,8 +1,13 @@
 {
+    "description": "Module for XinaBox SH01 capacitive touch sensor",
     "fullname": "lib.xinabox.sh01",
     "git_pointer": "github://xinabox/zerynth-SH01",
-    "title": "XinaBox SH01",
-    "description": "Module for XinaBox SH01 capacitive touch sensor",
+    "info": {
+        "chip_manufacturer": "XinaBox",
+        "chip_name": "SH01",
+        "name": "Capacitive Touch Sensor",
+        "type": "Sensor"
+    },
     "keywords": [
         "capacitive",
         "touch",
@@ -10,12 +15,7 @@
         "xinabox",
         "CAP1296"
     ],
-    "info": {
-        "chip_manufacturer": "XinaBox",
-        "chip_name": "SH01",
-        "name": "Capacitive Touch Sensor",
-        "type": "Sensor"
-    }, 
     "repo": "official",
-    "version": "r2.1.2"
+    "title": "XinaBox SH01",
+    "version": "r2.2.0"
 }
